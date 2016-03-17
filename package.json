@@ -12,9 +12,11 @@
   "author": "Michal Misiarek",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.1.2",
     "commander": "^2.9.0",
     "google-auth-library": "^0.9.7",
     "googleapis": "^2.1.7",
-    "got": "^6.1.1"
+    "got": "^6.1.1",
+    "inquirer": "^0.12.0"
   }
 }
